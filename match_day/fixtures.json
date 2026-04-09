@@ -1,0 +1,952 @@
+{
+  "groups": [
+    {
+      "name": "Group A",
+      "teams": [
+        "Czechia",
+        "Korea Republic",
+        "South Africa",
+        "Mexico"
+      ]
+    },
+    {
+      "name": "Group B",
+      "teams": [
+        "Qatar",
+        "Switzerland",
+        "Canada",
+        "Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "name": "Group C",
+      "teams": [
+        "Morocco",
+        "Brazil",
+        "Scotland",
+        "Haiti"
+      ]
+    },
+    {
+      "name": "Group D",
+      "teams": [
+        "Australia",
+        "USA",
+        "T\u00fcrkiye",
+        "Paraguay"
+      ]
+    },
+    {
+      "name": "Group E",
+      "teams": [
+        "Cura\u00e7ao",
+        "Germany",
+        "Ecuador",
+        "C\u00f4te d'Ivoire"
+      ]
+    },
+    {
+      "name": "Group F",
+      "teams": [
+        "Japan",
+        "Sweden",
+        "Tunisia",
+        "Netherlands"
+      ]
+    },
+    {
+      "name": "Group G",
+      "teams": [
+        "New Zealand",
+        "Egypt",
+        "Belgium",
+        "IR Iran"
+      ]
+    },
+    {
+      "name": "Group H",
+      "teams": [
+        "Saudi Arabia",
+        "Uruguay",
+        "Cabo Verde",
+        "Spain"
+      ]
+    },
+    {
+      "name": "Group I",
+      "teams": [
+        "Senegal",
+        "France",
+        "Iraq",
+        "Norway"
+      ]
+    },
+    {
+      "name": "Group J",
+      "teams": [
+        "Jordan",
+        "Austria",
+        "Argentina",
+        "Algeria"
+      ]
+    },
+    {
+      "name": "Group K",
+      "teams": [
+        "Portugal",
+        "Colombia",
+        "Congo DR",
+        "Uzbekistan"
+      ]
+    },
+    {
+      "name": "Group L",
+      "teams": [
+        "Croatia",
+        "Ghana",
+        "England",
+        "Panama"
+      ]
+    }
+  ],
+  "matches": [
+    {
+      "id": "400021443",
+      "homeTeam": "Mexico",
+      "awayTeam": "South Africa",
+      "group": "Group A",
+      "stadium": "Mexico City Stadium",
+      "utcDate": "2024-06-11T00:00:00Z",
+      "homeScore": 2,
+      "awayScore": 1
+    },
+    {
+      "id": "400021441",
+      "homeTeam": "Korea Republic",
+      "awayTeam": "Czechia",
+      "group": "Group A",
+      "stadium": "Estadio Guadalajara",
+      "utcDate": "2024-06-11T00:00:00Z",
+      "homeScore": 0,
+      "awayScore": 0
+    },
+    {
+      "id": "400021449",
+      "homeTeam": "Canada",
+      "awayTeam": "Bosnia and Herzegovina",
+      "group": "Group B",
+      "stadium": "Toronto Stadium",
+      "utcDate": "2024-06-12T00:00:00Z",
+      "homeScore": 3,
+      "awayScore": 2
+    },
+    {
+      "id": "400021458",
+      "homeTeam": "USA",
+      "awayTeam": "Paraguay",
+      "group": "Group D",
+      "stadium": "Los Angeles Stadium",
+      "utcDate": "2026-06-12T00:00:00Z"
+    },
+    {
+      "id": "400021453",
+      "homeTeam": "Haiti",
+      "awayTeam": "Scotland",
+      "group": "Group C",
+      "stadium": "Boston Stadium",
+      "utcDate": "2026-06-13T00:00:00Z"
+    },
+    {
+      "id": "400021463",
+      "homeTeam": "Australia",
+      "awayTeam": "T\u00fcrkiye",
+      "group": "Group D",
+      "stadium": "BC Place Vancouver",
+      "utcDate": "2026-06-13T00:00:00Z"
+    },
+    {
+      "id": "400021456",
+      "homeTeam": "Brazil",
+      "awayTeam": "Morocco",
+      "group": "Group C",
+      "stadium": "New York New Jersey Stadium",
+      "utcDate": "2026-06-13T00:00:00Z"
+    },
+    {
+      "id": "400021447",
+      "homeTeam": "Qatar",
+      "awayTeam": "Switzerland",
+      "group": "Group B",
+      "stadium": "San Francisco Bay Area Stadium",
+      "utcDate": "2026-06-13T00:00:00Z"
+    },
+    {
+      "id": "400021467",
+      "homeTeam": "C\u00f4te d'Ivoire",
+      "awayTeam": "Ecuador",
+      "group": "Group E",
+      "stadium": "Philadelphia Stadium",
+      "utcDate": "2026-06-14T00:00:00Z"
+    },
+    {
+      "id": "400021464",
+      "homeTeam": "Germany",
+      "awayTeam": "Cura\u00e7ao",
+      "group": "Group E",
+      "stadium": "Houston Stadium",
+      "utcDate": "2026-06-14T00:00:00Z"
+    },
+    {
+      "id": "400021470",
+      "homeTeam": "Netherlands",
+      "awayTeam": "Japan",
+      "group": "Group F",
+      "stadium": "Dallas Stadium",
+      "utcDate": "2026-06-14T00:00:00Z"
+    },
+    {
+      "id": "400021474",
+      "homeTeam": "Sweden",
+      "awayTeam": "Tunisia",
+      "group": "Group F",
+      "stadium": "Estadio Monterrey",
+      "utcDate": "2026-06-14T00:00:00Z"
+    },
+    {
+      "id": "400021486",
+      "homeTeam": "Saudi Arabia",
+      "awayTeam": "Uruguay",
+      "group": "Group H",
+      "stadium": "Miami Stadium",
+      "utcDate": "2026-06-15T00:00:00Z"
+    },
+    {
+      "id": "400021482",
+      "homeTeam": "Spain",
+      "awayTeam": "Cabo Verde",
+      "group": "Group H",
+      "stadium": "Atlanta Stadium",
+      "utcDate": "2026-06-15T00:00:00Z"
+    },
+    {
+      "id": "400021476",
+      "homeTeam": "IR Iran",
+      "awayTeam": "New Zealand",
+      "group": "Group G",
+      "stadium": "Los Angeles Stadium",
+      "utcDate": "2026-06-15T00:00:00Z"
+    },
+    {
+      "id": "400021478",
+      "homeTeam": "Belgium",
+      "awayTeam": "Egypt",
+      "group": "Group G",
+      "stadium": "Seattle Stadium",
+      "utcDate": "2026-06-15T00:00:00Z"
+    },
+    {
+      "id": "400021490",
+      "homeTeam": "France",
+      "awayTeam": "Senegal",
+      "group": "Group I",
+      "stadium": "New York New Jersey Stadium",
+      "utcDate": "2026-06-16T00:00:00Z"
+    },
+    {
+      "id": "400021488",
+      "homeTeam": "Iraq",
+      "awayTeam": "Norway",
+      "group": "Group I",
+      "stadium": "Boston Stadium",
+      "utcDate": "2026-06-16T00:00:00Z"
+    },
+    {
+      "id": "400021496",
+      "homeTeam": "Argentina",
+      "awayTeam": "Algeria",
+      "group": "Group J",
+      "stadium": "Kansas City Stadium",
+      "utcDate": "2026-06-16T00:00:00Z"
+    },
+    {
+      "id": "400021498",
+      "homeTeam": "Austria",
+      "awayTeam": "Jordan",
+      "group": "Group J",
+      "stadium": "San Francisco Bay Area Stadium",
+      "utcDate": "2026-06-16T00:00:00Z"
+    },
+    {
+      "id": "400021510",
+      "homeTeam": "Ghana",
+      "awayTeam": "Panama",
+      "group": "Group L",
+      "stadium": "Toronto Stadium",
+      "utcDate": "2026-06-17T00:00:00Z"
+    },
+    {
+      "id": "400021507",
+      "homeTeam": "England",
+      "awayTeam": "Croatia",
+      "group": "Group L",
+      "stadium": "Dallas Stadium",
+      "utcDate": "2026-06-17T00:00:00Z"
+    },
+    {
+      "id": "400021502",
+      "homeTeam": "Portugal",
+      "awayTeam": "Congo DR",
+      "group": "Group K",
+      "stadium": "Houston Stadium",
+      "utcDate": "2026-06-17T00:00:00Z"
+    },
+    {
+      "id": "400021504",
+      "homeTeam": "Uzbekistan",
+      "awayTeam": "Colombia",
+      "group": "Group K",
+      "stadium": "Mexico City Stadium",
+      "utcDate": "2026-06-17T00:00:00Z"
+    },
+    {
+      "id": "400021440",
+      "homeTeam": "Czechia",
+      "awayTeam": "South Africa",
+      "group": "Group A",
+      "stadium": "Atlanta Stadium",
+      "utcDate": "2026-06-18T00:00:00Z"
+    },
+    {
+      "id": "400021446",
+      "homeTeam": "Switzerland",
+      "awayTeam": "Bosnia and Herzegovina",
+      "group": "Group B",
+      "stadium": "Los Angeles Stadium",
+      "utcDate": "2026-06-18T00:00:00Z"
+    },
+    {
+      "id": "400021450",
+      "homeTeam": "Canada",
+      "awayTeam": "Qatar",
+      "group": "Group B",
+      "stadium": "BC Place Vancouver",
+      "utcDate": "2026-06-18T00:00:00Z"
+    },
+    {
+      "id": "400021442",
+      "homeTeam": "Mexico",
+      "awayTeam": "Korea Republic",
+      "group": "Group A",
+      "stadium": "Estadio Guadalajara",
+      "utcDate": "2026-06-18T00:00:00Z"
+    },
+    {
+      "id": "400021457",
+      "homeTeam": "Brazil",
+      "awayTeam": "Haiti",
+      "group": "Group C",
+      "stadium": "Philadelphia Stadium",
+      "utcDate": "2026-06-19T00:00:00Z"
+    },
+    {
+      "id": "400021454",
+      "homeTeam": "Scotland",
+      "awayTeam": "Morocco",
+      "group": "Group C",
+      "stadium": "Boston Stadium",
+      "utcDate": "2026-06-19T00:00:00Z"
+    },
+    {
+      "id": "400021460",
+      "homeTeam": "T\u00fcrkiye",
+      "awayTeam": "Paraguay",
+      "group": "Group D",
+      "stadium": "San Francisco Bay Area Stadium",
+      "utcDate": "2026-06-19T00:00:00Z"
+    },
+    {
+      "id": "400021462",
+      "homeTeam": "USA",
+      "awayTeam": "Australia",
+      "group": "Group D",
+      "stadium": "Seattle Stadium",
+      "utcDate": "2026-06-19T00:00:00Z"
+    },
+    {
+      "id": "400021469",
+      "homeTeam": "Germany",
+      "awayTeam": "C\u00f4te d'Ivoire",
+      "group": "Group E",
+      "stadium": "Toronto Stadium",
+      "utcDate": "2026-06-20T00:00:00Z"
+    },
+    {
+      "id": "400021465",
+      "homeTeam": "Ecuador",
+      "awayTeam": "Cura\u00e7ao",
+      "group": "Group E",
+      "stadium": "Kansas City Stadium",
+      "utcDate": "2026-06-20T00:00:00Z"
+    },
+    {
+      "id": "400021472",
+      "homeTeam": "Netherlands",
+      "awayTeam": "Sweden",
+      "group": "Group F",
+      "stadium": "Houston Stadium",
+      "utcDate": "2026-06-20T00:00:00Z"
+    },
+    {
+      "id": "400021475",
+      "homeTeam": "Tunisia",
+      "awayTeam": "Japan",
+      "group": "Group F",
+      "stadium": "Estadio Monterrey",
+      "utcDate": "2026-06-20T00:00:00Z"
+    },
+    {
+      "id": "400021487",
+      "homeTeam": "Uruguay",
+      "awayTeam": "Cabo Verde",
+      "group": "Group H",
+      "stadium": "Miami Stadium",
+      "utcDate": "2026-06-21T00:00:00Z"
+    },
+    {
+      "id": "400021483",
+      "homeTeam": "Spain",
+      "awayTeam": "Saudi Arabia",
+      "group": "Group H",
+      "stadium": "Atlanta Stadium",
+      "utcDate": "2026-06-21T00:00:00Z"
+    },
+    {
+      "id": "400021477",
+      "homeTeam": "Belgium",
+      "awayTeam": "IR Iran",
+      "group": "Group G",
+      "stadium": "Los Angeles Stadium",
+      "utcDate": "2026-06-21T00:00:00Z"
+    },
+    {
+      "id": "400021480",
+      "homeTeam": "New Zealand",
+      "awayTeam": "Egypt",
+      "group": "Group G",
+      "stadium": "BC Place Vancouver",
+      "utcDate": "2026-06-21T00:00:00Z"
+    },
+    {
+      "id": "400021491",
+      "homeTeam": "Norway",
+      "awayTeam": "Senegal",
+      "group": "Group I",
+      "stadium": "New York New Jersey Stadium",
+      "utcDate": "2026-06-22T00:00:00Z"
+    },
+    {
+      "id": "400021492",
+      "homeTeam": "France",
+      "awayTeam": "Iraq",
+      "group": "Group I",
+      "stadium": "Philadelphia Stadium",
+      "utcDate": "2026-06-22T00:00:00Z"
+    },
+    {
+      "id": "400021494",
+      "homeTeam": "Argentina",
+      "awayTeam": "Austria",
+      "group": "Group J",
+      "stadium": "Dallas Stadium",
+      "utcDate": "2026-06-22T00:00:00Z"
+    },
+    {
+      "id": "400021499",
+      "homeTeam": "Jordan",
+      "awayTeam": "Algeria",
+      "group": "Group J",
+      "stadium": "San Francisco Bay Area Stadium",
+      "utcDate": "2026-06-22T00:00:00Z"
+    },
+    {
+      "id": "400021506",
+      "homeTeam": "England",
+      "awayTeam": "Ghana",
+      "group": "Group L",
+      "stadium": "Boston Stadium",
+      "utcDate": "2026-06-23T00:00:00Z"
+    },
+    {
+      "id": "400021511",
+      "homeTeam": "Panama",
+      "awayTeam": "Croatia",
+      "group": "Group L",
+      "stadium": "Toronto Stadium",
+      "utcDate": "2026-06-23T00:00:00Z"
+    },
+    {
+      "id": "400021503",
+      "homeTeam": "Portugal",
+      "awayTeam": "Uzbekistan",
+      "group": "Group K",
+      "stadium": "Houston Stadium",
+      "utcDate": "2026-06-23T00:00:00Z"
+    },
+    {
+      "id": "400021501",
+      "homeTeam": "Colombia",
+      "awayTeam": "Congo DR",
+      "group": "Group K",
+      "stadium": "Estadio Guadalajara",
+      "utcDate": "2026-06-23T00:00:00Z"
+    },
+    {
+      "id": "400021455",
+      "homeTeam": "Scotland",
+      "awayTeam": "Brazil",
+      "group": "Group C",
+      "stadium": "Miami Stadium",
+      "utcDate": "2026-06-24T00:00:00Z"
+    },
+    {
+      "id": "400021452",
+      "homeTeam": "Morocco",
+      "awayTeam": "Haiti",
+      "group": "Group C",
+      "stadium": "Atlanta Stadium",
+      "utcDate": "2026-06-24T00:00:00Z"
+    },
+    {
+      "id": "400021451",
+      "homeTeam": "Switzerland",
+      "awayTeam": "Canada",
+      "group": "Group B",
+      "stadium": "BC Place Vancouver",
+      "utcDate": "2026-06-24T00:00:00Z"
+    },
+    {
+      "id": "400021448",
+      "homeTeam": "Bosnia and Herzegovina",
+      "awayTeam": "Qatar",
+      "group": "Group B",
+      "stadium": "Seattle Stadium",
+      "utcDate": "2026-06-24T00:00:00Z"
+    },
+    {
+      "id": "400021444",
+      "homeTeam": "Czechia",
+      "awayTeam": "Mexico",
+      "group": "Group A",
+      "stadium": "Mexico City Stadium",
+      "utcDate": "2026-06-24T00:00:00Z"
+    },
+    {
+      "id": "400021445",
+      "homeTeam": "South Africa",
+      "awayTeam": "Korea Republic",
+      "group": "Group A",
+      "stadium": "Estadio Monterrey",
+      "utcDate": "2026-06-24T00:00:00Z"
+    },
+    {
+      "id": "400021468",
+      "homeTeam": "Cura\u00e7ao",
+      "awayTeam": "C\u00f4te d'Ivoire",
+      "group": "Group E",
+      "stadium": "Philadelphia Stadium",
+      "utcDate": "2026-06-25T00:00:00Z"
+    },
+    {
+      "id": "400021466",
+      "homeTeam": "Ecuador",
+      "awayTeam": "Germany",
+      "group": "Group E",
+      "stadium": "New York New Jersey Stadium",
+      "utcDate": "2026-06-25T00:00:00Z"
+    },
+    {
+      "id": "400021471",
+      "homeTeam": "Japan",
+      "awayTeam": "Sweden",
+      "group": "Group F",
+      "stadium": "Dallas Stadium",
+      "utcDate": "2026-06-25T00:00:00Z"
+    },
+    {
+      "id": "400021473",
+      "homeTeam": "Tunisia",
+      "awayTeam": "Netherlands",
+      "group": "Group F",
+      "stadium": "Kansas City Stadium",
+      "utcDate": "2026-06-25T00:00:00Z"
+    },
+    {
+      "id": "400021459",
+      "homeTeam": "T\u00fcrkiye",
+      "awayTeam": "USA",
+      "group": "Group D",
+      "stadium": "Los Angeles Stadium",
+      "utcDate": "2026-06-25T00:00:00Z"
+    },
+    {
+      "id": "400021461",
+      "homeTeam": "Paraguay",
+      "awayTeam": "Australia",
+      "group": "Group D",
+      "stadium": "San Francisco Bay Area Stadium",
+      "utcDate": "2026-06-25T00:00:00Z"
+    },
+    {
+      "id": "400021489",
+      "homeTeam": "Norway",
+      "awayTeam": "France",
+      "group": "Group I",
+      "stadium": "Boston Stadium",
+      "utcDate": "2026-06-26T00:00:00Z"
+    },
+    {
+      "id": "400021493",
+      "homeTeam": "Senegal",
+      "awayTeam": "Iraq",
+      "group": "Group I",
+      "stadium": "Toronto Stadium",
+      "utcDate": "2026-06-26T00:00:00Z"
+    },
+    {
+      "id": "400021479",
+      "homeTeam": "Egypt",
+      "awayTeam": "IR Iran",
+      "group": "Group G",
+      "stadium": "Seattle Stadium",
+      "utcDate": "2026-06-26T00:00:00Z"
+    },
+    {
+      "id": "400021481",
+      "homeTeam": "New Zealand",
+      "awayTeam": "Belgium",
+      "group": "Group G",
+      "stadium": "BC Place Vancouver",
+      "utcDate": "2026-06-26T00:00:00Z"
+    },
+    {
+      "id": "400021485",
+      "homeTeam": "Cabo Verde",
+      "awayTeam": "Saudi Arabia",
+      "group": "Group H",
+      "stadium": "Houston Stadium",
+      "utcDate": "2026-06-26T00:00:00Z"
+    },
+    {
+      "id": "400021484",
+      "homeTeam": "Uruguay",
+      "awayTeam": "Spain",
+      "group": "Group H",
+      "stadium": "Estadio Guadalajara",
+      "utcDate": "2026-06-26T00:00:00Z"
+    },
+    {
+      "id": "400021508",
+      "homeTeam": "Panama",
+      "awayTeam": "England",
+      "group": "Group L",
+      "stadium": "New York New Jersey Stadium",
+      "utcDate": "2026-06-27T00:00:00Z"
+    },
+    {
+      "id": "400021509",
+      "homeTeam": "Croatia",
+      "awayTeam": "Ghana",
+      "group": "Group L",
+      "stadium": "Philadelphia Stadium",
+      "utcDate": "2026-06-27T00:00:00Z"
+    },
+    {
+      "id": "400021497",
+      "homeTeam": "Algeria",
+      "awayTeam": "Austria",
+      "group": "Group J",
+      "stadium": "Kansas City Stadium",
+      "utcDate": "2026-06-27T00:00:00Z"
+    },
+    {
+      "id": "400021495",
+      "homeTeam": "Jordan",
+      "awayTeam": "Argentina",
+      "group": "Group J",
+      "stadium": "Dallas Stadium",
+      "utcDate": "2026-06-27T00:00:00Z"
+    },
+    {
+      "id": "400021505",
+      "homeTeam": "Colombia",
+      "awayTeam": "Portugal",
+      "group": "Group K",
+      "stadium": "Miami Stadium",
+      "utcDate": "2026-06-27T00:00:00Z"
+    },
+    {
+      "id": "400021500",
+      "homeTeam": "Congo DR",
+      "awayTeam": "Uzbekistan",
+      "group": "Group K",
+      "stadium": "Atlanta Stadium",
+      "utcDate": "2026-06-27T00:00:00Z"
+    },
+    {
+      "id": "400021518",
+      "homeTeam": "Group A runners-up",
+      "awayTeam": "Group B runners-up",
+      "group": "Knockout",
+      "stadium": "Los Angeles Stadium",
+      "utcDate": "2026-06-28T00:00:00Z"
+    },
+    {
+      "id": "400021513",
+      "homeTeam": "Group E winners",
+      "awayTeam": "Group A/B/C/D/F third place",
+      "group": "Knockout",
+      "stadium": "Boston Stadium",
+      "utcDate": "2026-06-29T00:00:00Z"
+    },
+    {
+      "id": "400021522",
+      "homeTeam": "Group F winners",
+      "awayTeam": "Group C runners-up",
+      "group": "Knockout",
+      "stadium": "Estadio Monterrey",
+      "utcDate": "2026-06-29T00:00:00Z"
+    },
+    {
+      "id": "400021516",
+      "homeTeam": "Group C winners",
+      "awayTeam": "Group F runners-up",
+      "group": "Knockout",
+      "stadium": "Houston Stadium",
+      "utcDate": "2026-06-29T00:00:00Z"
+    },
+    {
+      "id": "400021523",
+      "homeTeam": "Group I winners",
+      "awayTeam": "Group C/D/F/G/H third place",
+      "group": "Knockout",
+      "stadium": "New York New Jersey Stadium",
+      "utcDate": "2026-06-30T00:00:00Z"
+    },
+    {
+      "id": "400021514",
+      "homeTeam": "Group E runners up",
+      "awayTeam": "Group I runners-up",
+      "group": "Knockout",
+      "stadium": "Dallas Stadium",
+      "utcDate": "2026-06-30T00:00:00Z"
+    },
+    {
+      "id": "400021520",
+      "homeTeam": "Group A winners",
+      "awayTeam": "Group C/E/F/H/I third place",
+      "group": "Knockout",
+      "stadium": "Mexico City Stadium",
+      "utcDate": "2026-06-30T00:00:00Z"
+    },
+    {
+      "id": "400021512",
+      "homeTeam": "Group L winners",
+      "awayTeam": "Group E/H/I/J/K third place",
+      "group": "Knockout",
+      "stadium": "Atlanta Stadium",
+      "utcDate": "2026-07-01T00:00:00Z"
+    },
+    {
+      "id": "400021524",
+      "homeTeam": "Group D winners",
+      "awayTeam": "Group B/E/F/I/J third place",
+      "group": "Knockout",
+      "stadium": "San Francisco Bay Area Stadium",
+      "utcDate": "2026-07-01T00:00:00Z"
+    },
+    {
+      "id": "400021525",
+      "homeTeam": "Group G winners",
+      "awayTeam": "Group A/E/H/I/J third place",
+      "group": "Knockout",
+      "stadium": "Seattle Stadium",
+      "utcDate": "2026-07-01T00:00:00Z"
+    },
+    {
+      "id": "400021526",
+      "homeTeam": "Group K runners-up",
+      "awayTeam": "Group L runners-up",
+      "group": "Knockout",
+      "stadium": "Toronto Stadium",
+      "utcDate": "2026-07-02T00:00:00Z"
+    },
+    {
+      "id": "400021519",
+      "homeTeam": "Group H winners",
+      "awayTeam": "Group J runners-up",
+      "group": "Knockout",
+      "stadium": "Los Angeles Stadium",
+      "utcDate": "2026-07-02T00:00:00Z"
+    },
+    {
+      "id": "400021527",
+      "homeTeam": "Group B winners",
+      "awayTeam": "Group E/F/G/I/J third place",
+      "group": "Knockout",
+      "stadium": "BC Place Vancouver",
+      "utcDate": "2026-07-02T00:00:00Z"
+    },
+    {
+      "id": "400021521",
+      "homeTeam": "Group J winners",
+      "awayTeam": "Group H runners-up",
+      "group": "Knockout",
+      "stadium": "Miami Stadium",
+      "utcDate": "2026-07-03T00:00:00Z"
+    },
+    {
+      "id": "400021517",
+      "homeTeam": "Group K winners",
+      "awayTeam": "Group D/E/I/J/L third place",
+      "group": "Knockout",
+      "stadium": "Kansas City Stadium",
+      "utcDate": "2026-07-03T00:00:00Z"
+    },
+    {
+      "id": "400021515",
+      "homeTeam": "Group D runners-up",
+      "awayTeam": "Group G runners-up",
+      "group": "Knockout",
+      "stadium": "Dallas Stadium",
+      "utcDate": "2026-07-03T00:00:00Z"
+    },
+    {
+      "id": "400021533",
+      "homeTeam": "Winner match 74",
+      "awayTeam": "Winner match 77",
+      "group": "Knockout",
+      "stadium": "Philadelphia Stadium",
+      "utcDate": "2026-07-04T00:00:00Z"
+    },
+    {
+      "id": "400021530",
+      "homeTeam": "Winner match 73",
+      "awayTeam": "Winner match 75",
+      "group": "Knockout",
+      "stadium": "Houston Stadium",
+      "utcDate": "2026-07-04T00:00:00Z"
+    },
+    {
+      "id": "400021532",
+      "homeTeam": "Winner match 76",
+      "awayTeam": "Winner match 78",
+      "group": "Knockout",
+      "stadium": "New York New Jersey Stadium",
+      "utcDate": "2026-07-05T00:00:00Z"
+    },
+    {
+      "id": "400021531",
+      "homeTeam": "Winner match 79",
+      "awayTeam": "Winner match 80",
+      "group": "Knockout",
+      "stadium": "Mexico City Stadium",
+      "utcDate": "2026-07-05T00:00:00Z"
+    },
+    {
+      "id": "400021529",
+      "homeTeam": "Winner match 83",
+      "awayTeam": "Winner match 84",
+      "group": "Knockout",
+      "stadium": "Dallas Stadium",
+      "utcDate": "2026-07-06T00:00:00Z"
+    },
+    {
+      "id": "400021534",
+      "homeTeam": "Winner match 81",
+      "awayTeam": "Winner match 82",
+      "group": "Knockout",
+      "stadium": "Seattle Stadium",
+      "utcDate": "2026-07-06T00:00:00Z"
+    },
+    {
+      "id": "400021528",
+      "homeTeam": "Winner match 86",
+      "awayTeam": "Winner match 88",
+      "group": "Knockout",
+      "stadium": "Atlanta Stadium",
+      "utcDate": "2026-07-07T00:00:00Z"
+    },
+    {
+      "id": "400021535",
+      "homeTeam": "Winner match 85",
+      "awayTeam": "Winner match 87",
+      "group": "Knockout",
+      "stadium": "BC Place Vancouver",
+      "utcDate": "2026-07-07T00:00:00Z"
+    },
+    {
+      "id": "400021536",
+      "homeTeam": "Winner match 89",
+      "awayTeam": "Winner match 90",
+      "group": "Knockout",
+      "stadium": "Boston Stadium",
+      "utcDate": "2026-07-09T00:00:00Z"
+    },
+    {
+      "id": "400021538",
+      "homeTeam": "Winner match 93",
+      "awayTeam": "Winner match 94",
+      "group": "Knockout",
+      "stadium": "Los Angeles Stadium",
+      "utcDate": "2026-07-10T00:00:00Z"
+    },
+    {
+      "id": "400021539",
+      "homeTeam": "Winner match 91",
+      "awayTeam": "Winner match 92",
+      "group": "Knockout",
+      "stadium": "Miami Stadium",
+      "utcDate": "2026-07-11T00:00:00Z"
+    },
+    {
+      "id": "400021537",
+      "homeTeam": "Winner match 95",
+      "awayTeam": "Winner match 96",
+      "group": "Knockout",
+      "stadium": "Kansas City Stadium",
+      "utcDate": "2026-07-11T00:00:00Z"
+    },
+    {
+      "id": "400021541",
+      "homeTeam": "Winner match 97",
+      "awayTeam": "Winner match 98",
+      "group": "Knockout",
+      "stadium": "Dallas Stadium",
+      "utcDate": "2026-07-14T00:00:00Z"
+    },
+    {
+      "id": "400021540",
+      "homeTeam": "Winner match 99",
+      "awayTeam": "Winner match 100",
+      "group": "Knockout",
+      "stadium": "Atlanta Stadium",
+      "utcDate": "2026-07-15T00:00:00Z"
+    },
+    {
+      "id": "400021542",
+      "homeTeam": "Runner-up match 101",
+      "awayTeam": "Runner-up match 102",
+      "group": "Knockout",
+      "stadium": "Miami Stadium",
+      "utcDate": "2026-07-18T00:00:00Z"
+    },
+    {
+      "id": "400021543",
+      "homeTeam": "Winner match 101",
+      "awayTeam": "Winner match 102",
+      "group": "Knockout",
+      "stadium": "New York New Jersey Stadium",
+      "utcDate": "2026-07-19T00:00:00Z"
+    }
+  ]
+}
