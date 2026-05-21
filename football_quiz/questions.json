@@ -6061,17 +6061,6 @@
     "difficulty": 5
   },
   {
-    "questionText": "Which player scored the golden goal for the Netherlands in the 1998 quarter-final?",
-    "options": [
-      "No golden goal – penalties",
-      "The rule was used in other matches",
-      "Real: the 'Golden goal' in 1998 was Blanc",
-      "Correct"
-    ],
-    "correctAnswerIndex": 0,
-    "difficulty": 5
-  },
-  {
     "questionText": "Who scored the extra-time winner for France in the 1998 round of 16?",
     "options": [
       "Laurent Blanc",
@@ -6092,17 +6081,6 @@
     ],
     "correctAnswerIndex": 0,
     "difficulty": 4
-  },
-  {
-    "questionText": "Which player scored the golden goal for Italy in the 2006 round of 16?",
-    "options": [
-      "No golden goal in that match",
-      "The rule was still in place",
-      "Real accurate: the 'Golden goal' not used in that match",
-      "Correct"
-    ],
-    "correctAnswerIndex": 0,
-    "difficulty": 5
   },
   {
     "questionText": "Who scored the extra-time winner for Spain in the 2010 quarter-final?",
@@ -6589,17 +6567,6 @@
     "difficulty": 5
   },
   {
-    "questionText": "Which World Cup match was played in the rain in the 1966 final?",
-    "options": [
-      "No rain – but the 1930 final was rainy",
-      "Real accurate: the 'Rain in 1930'",
-      "The question is the 'Weather in 1966' no",
-      "Correct"
-    ],
-    "correctAnswerIndex": 0,
-    "difficulty": 5
-  },
-  {
     "questionText": "Which World Cup had the most matches affected by extreme heat?",
     "options": [
       "2022 Qatar",
@@ -6633,28 +6600,6 @@
     "difficulty": 5
   },
   {
-    "questionText": "Which match was played in the rain in the 1970 final?",
-    "options": [
-      "No rain – but the 1930 was",
-      "Real accurate: the 'Rain in 1970' no",
-      "The question is the 'Weather in 1970' no",
-      "Correct"
-    ],
-    "correctAnswerIndex": 0,
-    "difficulty": 5
-  },
-  {
-    "questionText": "Which match was affected by heavy fog in a World Cup?",
-    "options": [
-      "No major fog – but cold in Russia",
-      "Real accurate: the 'Fog in 2018' no",
-      "The question is the 'Weather'",
-      "Correct"
-    ],
-    "correctAnswerIndex": 0,
-    "difficulty": 5
-  },
-  {
     "questionText": "Which World Cup had the most matches played in rainy conditions?",
     "options": [
       "1950 Brazil",
@@ -6677,34 +6622,12 @@
     "difficulty": 5
   },
   {
-    "questionText": "Which match was affected by a dust storm in Qatar 2022?",
-    "options": [
-      "No major dust storm",
-      "Real accurate: the 'Dust in Qatar' no",
-      "The question is the 'Weather'",
-      "Correct"
-    ],
-    "correctAnswerIndex": 0,
-    "difficulty": 5
-  },
-  {
     "questionText": "Which World Cup match was played in the highest humidity?",
     "options": [
       "Qatar 2022",
       "Mexico 1986",
       "Brazil 2014",
       "USA 1994"
-    ],
-    "correctAnswerIndex": 0,
-    "difficulty": 5
-  },
-  {
-    "questionText": "Which match was played in the rain in the 1986 final?",
-    "options": [
-      "No rain",
-      "Real accurate: the 'Rain in 1986' no",
-      "The question is the 'Weather'",
-      "Correct"
     ],
     "correctAnswerIndex": 0,
     "difficulty": 5
@@ -6727,17 +6650,6 @@
       "The final",
       "The semi-final",
       "The quarter-final"
-    ],
-    "correctAnswerIndex": 0,
-    "difficulty": 5
-  },
-  {
-    "questionText": "Which match was affected by a hailstorm in a World Cup?",
-    "options": [
-      "No major hailstorm",
-      "Real accurate: the 'Hail in 2018' no",
-      "The question is the 'Weather'",
-      "Correct"
     ],
     "correctAnswerIndex": 0,
     "difficulty": 5
@@ -6787,17 +6699,6 @@
     "difficulty": 5
   },
   {
-    "questionText": "Which match was played in the rain in the 2014 semi-final?",
-    "options": [
-      "No rain – the semi-final was dry",
-      "Real accurate: the 'Rain in 2014' no",
-      "The question is the 'Weather'",
-      "Correct"
-    ],
-    "correctAnswerIndex": 0,
-    "difficulty": 5
-  },
-  {
     "questionText": "Which World Cup final was played in the most comfortable conditions?",
     "options": [
       "1998 Paris",
@@ -6829,28 +6730,6 @@
     ],
     "correctAnswerIndex": 0,
     "difficulty": 4
-  },
-  {
-    "questionText": "Which match was played in the rain in the 2002 final?",
-    "options": [
-      "No rain",
-      "Real accurate: the 'Rain in 2002' no",
-      "The question is the 'Weather'",
-      "Correct"
-    ],
-    "correctAnswerIndex": 0,
-    "difficulty": 5
-  },
-  {
-    "questionText": "Which World Cup match was affected by a sandstorm?",
-    "options": [
-      "No major sandstorm in WC history",
-      "Real accurate: the 'Dust in Qatar' no",
-      "The question is the 'Weather'",
-      "Correct"
-    ],
-    "correctAnswerIndex": 0,
-    "difficulty": 5
   },
   {
     "questionText": "How many teams will qualify for the 2026 World Cup from UEFA?",
@@ -16852,28 +16731,6 @@
     "difficulty": 5
   },
   {
-    "questionText": "Which match was affected by a dust storm in 2022?",
-    "options": [
-      "No major",
-      "Real accurate: the 'Dust in Qatar' no",
-      "The question is the 'Weather'",
-      "Correct"
-    ],
-    "correctAnswerIndex": 0,
-    "difficulty": 5
-  },
-  {
-    "questionText": "Which World Cup match was played in the rain in the 1950 final?",
-    "options": [
-      "No rain – but the 1930 final was rainy",
-      "Real accurate: the 'Rain in 1950' no",
-      "The question is the 'Weather'",
-      "Correct"
-    ],
-    "correctAnswerIndex": 0,
-    "difficulty": 5
-  },
-  {
     "questionText": "Which match was played in the coldest conditions in World Cup history?",
     "options": [
       "Russia 2018",
@@ -16896,17 +16753,6 @@
     "difficulty": 5
   },
   {
-    "questionText": "Which match was played in the rain in the 1970 final?",
-    "options": [
-      "No rain",
-      "Real accurate: the 'Rain in 1970' no",
-      "The question is the 'Weather'",
-      "Correct"
-    ],
-    "correctAnswerIndex": 0,
-    "difficulty": 5
-  },
-  {
     "questionText": "Which World Cup match was played at the highest altitude?",
     "options": [
       "Mexico 1986 / 1970",
@@ -16918,34 +16764,12 @@
     "difficulty": 5
   },
   {
-    "questionText": "Which match was affected by heavy fog in a World Cup?",
-    "options": [
-      "No major",
-      "Real accurate: the 'Fog in 2018' no",
-      "The question is the 'Weather'",
-      "Correct"
-    ],
-    "correctAnswerIndex": 0,
-    "difficulty": 5
-  },
-  {
     "questionText": "Which World Cup final was played in the coolest temperature?",
     "options": [
       "2006 Berlin",
       "2022 Lusail",
       "2014 Maracanã",
       "1998 Paris"
-    ],
-    "correctAnswerIndex": 0,
-    "difficulty": 5
-  },
-  {
-    "questionText": "Which match was affected by a sandstorm in Qatar 2022?",
-    "options": [
-      "No major",
-      "Real accurate: the 'Dust in Qatar' no",
-      "The question is the 'Weather'",
-      "Correct"
     ],
     "correctAnswerIndex": 0,
     "difficulty": 5
@@ -16973,34 +16797,12 @@
     "difficulty": 5
   },
   {
-    "questionText": "Which match was affected by a hailstorm in a World Cup?",
-    "options": [
-      "No major",
-      "Real accurate: the 'Hail in 2018' no",
-      "The question is the 'Weather'",
-      "Correct"
-    ],
-    "correctAnswerIndex": 0,
-    "difficulty": 5
-  },
-  {
     "questionText": "Which World Cup match was affected by strong winds in 2014?",
     "options": [
       "Multiple matches",
       "The final",
       "The semi-final",
       "The quarter-final"
-    ],
-    "correctAnswerIndex": 0,
-    "difficulty": 5
-  },
-  {
-    "questionText": "Which World Cup match was affected by a sandstorm?",
-    "options": [
-      "No major",
-      "Real accurate: the 'Dust in Qatar' no",
-      "The question is the 'Weather'",
-      "Correct"
     ],
     "correctAnswerIndex": 0,
     "difficulty": 5
@@ -17026,17 +16828,6 @@
     ],
     "correctAnswerIndex": 0,
     "difficulty": 4
-  },
-  {
-    "questionText": "Which match was played in the rain in the 2014 semi-final?",
-    "options": [
-      "No rain",
-      "Real accurate: the 'Rain in 2014' no",
-      "The question is the 'Weather'",
-      "Correct"
-    ],
-    "correctAnswerIndex": 0,
-    "difficulty": 5
   },
   {
     "questionText": "Which match was affected by strong winds in 2022?",
@@ -17138,45 +16929,12 @@
     "difficulty": 5
   },
   {
-    "questionText": "Which match was decided by golden goal in the 1998 quarter-final?",
-    "options": [
-      "No – penalties",
-      "France vs Paraguay was round of 16",
-      "The first was France vs Paraguay",
-      "Correct"
-    ],
-    "correctAnswerIndex": 0,
-    "difficulty": 5
-  },
-  {
-    "questionText": "Who scored a golden goal for the Netherlands in the 1998 quarter-final?",
-    "options": [
-      "No golden goal – penalties",
-      "The rule was used in other matches",
-      "Real: the 'Golden goal' in 1998 was Blanc",
-      "Correct"
-    ],
-    "correctAnswerIndex": 0,
-    "difficulty": 5
-  },
-  {
     "questionText": "Which match had a golden goal in the 2006 tournament?",
     "options": [
       "Multiple – but the rule was still in place",
       "The final was penalties",
       "The semi-final",
       "The quarter-final"
-    ],
-    "correctAnswerIndex": 0,
-    "difficulty": 5
-  },
-  {
-    "questionText": "Who scored the golden goal for Italy in the 2006 round of 16?",
-    "options": [
-      "No golden goal in that match",
-      "The rule was still in place",
-      "Real accurate: the 'Golden goal' not used in that match",
-      "Correct"
     ],
     "correctAnswerIndex": 0,
     "difficulty": 5
@@ -17237,17 +16995,6 @@
     "difficulty": 5
   },
   {
-    "questionText": "Which match had a golden goal in the 1998 quarter-final?",
-    "options": [
-      "No – penalties",
-      "France vs Paraguay was round of 16",
-      "The first was France vs Paraguay",
-      "Correct"
-    ],
-    "correctAnswerIndex": 0,
-    "difficulty": 5
-  },
-  {
     "questionText": "Who scored the golden goal that won the 1998 World Cup semi-final?",
     "options": [
       "Laurent Blanc",
@@ -17268,17 +17015,6 @@
     ],
     "correctAnswerIndex": 0,
     "difficulty": 4
-  },
-  {
-    "questionText": "Who scored a golden goal for Italy in the 2006 round of 16?",
-    "options": [
-      "No golden goal in that match",
-      "The rule was still in place",
-      "Real accurate: the 'Golden goal' not used in that match",
-      "Correct"
-    ],
-    "correctAnswerIndex": 0,
-    "difficulty": 5
   },
   {
     "questionText": "Which nation has the most World Cup matches played without winning the title?",
@@ -18442,17 +18178,6 @@
       "Nacional",
       "Bella Vista",
       "Central"
-    ],
-    "correctAnswerIndex": 0,
-    "difficulty": 5
-  },
-  {
-    "questionText": "Which match was played in the rain in the 2014 semi-final?",
-    "options": [
-      "No rain",
-      "Real accurate: the 'Rain in 2014' no",
-      "The question is the 'Weather'",
-      "Correct"
     ],
     "correctAnswerIndex": 0,
     "difficulty": 5
